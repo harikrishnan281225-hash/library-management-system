@@ -1,5 +1,7 @@
 <?php
 
+//Book Controller for library management - handles CRUD for books
+
 namespace App\Http\Controllers;
 
 use App\Models\Book;
